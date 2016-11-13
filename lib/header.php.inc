@@ -75,7 +75,8 @@
 <!--standard header start -->
     <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
-            <div style="height:120px"></div>
+            <!--div style="height:120px">his&amp;hurst</div-->
+            <div class="banner-title">his&amp;hurst</div>
 
             <div id="navbar" class="collapse navbar-collapse">
                 <!--img border="10" src="<?=$dotdots ?>img/long-banner.jpeg"-->

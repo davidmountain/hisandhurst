@@ -1,12 +1,23 @@
 body {
   padding-top: 250px;
 }
+.banner-title {
+/*  font-family: "Times New Roman", Georgia, Serif;*/
+/*  font-family: "open sans";*/
+  font-family: "tahoma";
+  font-size: 80px;
+  /*font-weight: bold;*/
+  font-weight: 1000;
+  height:120px;
+  text-indent: 450px;
+  color: #fafafa;
+}
 .navbar {
   height: 200px;
   background-color: #fff;
   color: #000;
 /*  background-image: url("http://127.0.0.1/hisandhurst/v_8/img/long-banner.jpeg");*/
-  background-image: url("../img/long-banner.jpeg");
+  background-image: url("../img/long-banner-plain.jpeg");
   background-repeat: no-repeat;
   vertical-align: bottom;
   font-size: 20px;
